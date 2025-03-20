@@ -2,12 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/rycoxdesu">
-    <img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" alt="Welcome GIF"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rycoxdesu">
     <img src="https://cardivo.vercel.app/api?name=Ryco&description=Hi,%20I'm%20Ryco,%20a%20beginner%20who%20loves%20coding!&image=https://avatars.githubusercontent.com/u/195569751?v=4&backgroundColor=%23ecf0f1&github=rycoxdesu&pattern=leaf&colorPattern=%23eaeaea" />
   </a>
 </p>
