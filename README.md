@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm **Ryco**!  
 
-I'm **Ryco**, a beginner learning to code. I'm currently learning **Python** and **Web Development**.
+🚀 A beginner passionate about **coding** and **web development**.  
+Currently diving into **Python** and building cool web projects!  
 
-- 🌱 I’m learning **HTML**, **CSS**, and **JavaScript**.
-- 💬 Ask me about **Python** and **basic web development**.
+### 🛠️ What I'm Learning  
+- **Python** 🐍 (Automation, Backend, APIs)  
+- **Web Development** 🌐 (HTML, CSS, JavaScript)  
+
+### 🌟 My Projects  
+🔗 [**My First Python Project**](https://github.com/rycoxdesu/my-first-python-project)  
 
 ---
 
-### Projects
-- [**My First Python Project**](https://github.com/rycoxdesu/my-first-python-project)
+### 📊 GitHub Stats  
+![Ryco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rycoxdesu&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rycoxdesu&layout=compact&theme=tokyonight)  
 
 ---
 
-### Contact
-- [Email](mailto:email@example.com)
+### 💬 Let's Connect!  
+📧 [Email Me](mailto:email@example.com)  
